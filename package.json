@@ -1,0 +1,27 @@
+{
+  "name": "cli-node",
+  "description": "Simple cli for Node.js",
+  "url": "http://github.com/dpweb/cli-node/",
+  "keywords": [
+    "util",
+    "nodejs",
+    "configuration",
+    "config",
+    "cli"
+  ],
+  "author": {
+    "name": "C Borkert",
+    "email": "ILIKECHEESE@dpsw.info"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dpweb/cnx-node.git"
+  },
+  "version": "0.0.1",
+  "readme": "cli-node\n==================\nSimple helper to do command line interfaces\n\nrequire('cli-node')('OK >', 'quit', function(line) {\n\tconsole.log(line);\n})\n",
+  "_id": "cli-node@0.0.1",
+  "dist": {
+    "shasum": "4ba044a2212df1afdfcb6c760b15065bdb488b8d"
+  },
+  "_from": "cli-node"
+}
